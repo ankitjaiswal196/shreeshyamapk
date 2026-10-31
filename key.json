@@ -1,8 +1,10 @@
 {
-  "id": "wish_diwali_2026",
-  "enabled": true,
-  "title": "🎉 Shubh Deepawali!",
-  "message": "Shree Shyam Medical software parivar ki taraf se aapko aur aapke poore parivaar ko Deepawali ki hardik shubhkamnayein! Har din barkat aur khushiyan laye.",
-  "sender": "Ankit Jaiswal",
-  "date": "2026-10-31"
+  "PRO-VIP-101": {
+    "device_id": "9a8b7c6d5e4f3a2b",
+    "status": "active"
+  },
+  "PRO-VIP-102": {
+    "device_id": "3f2a1b4c5d6e7f8a",
+    "status": "active"
+  }
 }
