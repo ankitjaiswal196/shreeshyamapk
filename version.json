@@ -1,9 +1,9 @@
 {
-  "versionName": "1.14.2",
-  "versionCode": 11402,
+  "versionName": "1.14.3",
+  "versionCode": 11403,
   "apkUrl": "https://github.com/ankitjaiswal196/shreeshyamapk/releases/download/shreeshyamapk/ShreeShyam.apk",
   "apkSize": "41.8 MB",
-  "releaseNotes": "1. Dedicated Security & PIN menu for Screen Lock and Master PIN\n2. Master PIN protection for Delete/Edit (Bills, Parties, Expenses, Stock)\n3. Live Diwali & Festive Wishes Announcement Banner\n4. Optimized A4 single-bill half-page and thermal printing\n5. Play Protect compatibility updates",
+  "releaseNotes": "1. Modular Settings: Shop Profile, Billing & Print, Watermark, Bank Option, Data & Backup, Danger Zone buttons\n2. Centered watermark printing & default OFF unticked\n3. Google Drive Auto Backup integrated inside Data & Backup\n4. Dedicated PIN Setting menu\n5. Play Protect compatibility",
   "mandatory": false,
   "releaseDate": "2026-10-31"
 }
