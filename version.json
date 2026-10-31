@@ -1,9 +1,9 @@
 {
-  "versionName": "1.13.0",
-  "versionCode": 11300,
+  "versionName": "1.14.0",
+  "versionCode": 11400,
   "apkUrl": "https://github.com/ankitjaiswal196/shreeshyamapk/releases/download/shreeshyamapk2/ShreeShyam.apk",
-  "apkSize": "41.4 MB",
-  "releaseNotes": "1. Google Drive Auto Backup (Har 180 min)\n2. Fast Thermal Printing\n3. WhatsApp & A4 Bill Print Fix",
+  "apkSize": "41.7 MB",
+  "releaseNotes": "1. Google Drive Auto Backup (Har 180 min)\n2. Fast Thermal Printing\n3. WhatsApp & A4 Bill Print Fix\n4. Auto Update Option Via Cloud",
   "mandatory": false,
   "releaseDate": "2026-10-31"
 }
