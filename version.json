@@ -1,9 +1,9 @@
 {
-  "versionName": "1.14.1",
-  "versionCode": 11401,
+  "versionName": "1.14.2",
+  "versionCode": 11402,
   "apkUrl": "https://github.com/ankitjaiswal196/shreeshyamapk/releases/download/shreeshyamapk/ShreeShyam.apk",
   "apkSize": "41.8 MB",
-  "releaseNotes": "1. Master PIN Security for Delete & Edit\n2. Google Drive Auto Backup (Har 180 min)\n3. Fast Thermal & Single A4 Half-Page Printing\n4. Live Festive Wishes & Announcements",
+  "releaseNotes": "1. Dedicated Security & PIN menu for Screen Lock and Master PIN\n2. Master PIN protection for Delete/Edit (Bills, Parties, Expenses, Stock)\n3. Live Diwali & Festive Wishes Announcement Banner\n4. Optimized A4 single-bill half-page and thermal printing\n5. Play Protect compatibility updates",
   "mandatory": false,
   "releaseDate": "2026-10-31"
 }
