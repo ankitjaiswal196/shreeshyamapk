@@ -4,6 +4,6 @@
   "apkUrl": "https://github.com/ankitjaiswal196/shreeshyamapk/releases/download/shreeshyamapk/ShreeShyam.apk",
   "apkSize": "41.8 MB",
   "releaseNotes": "1. Master PIN Security for Delete & Edit\n2. Google Drive Auto Backup (Har 180 min)\n3. Fast Thermal & Single A4 Half-Page Printing\n4. Live Festive Wishes & Announcements",
-  "mandatory": false,
+  "mandatory": true,
   "releaseDate": "2026-10-31"
 }
